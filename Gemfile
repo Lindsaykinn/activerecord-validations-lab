@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'awesome_print'
 gem 'rails'
 gem 'sqlite3', '~> 1.3.6'
 gem 'bootsnap'
@@ -17,3 +18,4 @@ end
 
 group :development do
 end
+
